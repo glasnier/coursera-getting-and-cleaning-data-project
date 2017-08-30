@@ -1,0 +1,11 @@
+# history files
+.Rhistory
+
+# example code in package build process
+*-Ex.R
+
+# R data files from past sessions
+.Rdata
+
+# OS dependent files
+.DS_Store
